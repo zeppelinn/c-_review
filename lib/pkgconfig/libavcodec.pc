@@ -1,0 +1,14 @@
+prefix=/Users/lijun/Environment/ffmpeg_source_code/ffmpeg-4.4.3/macox
+exec_prefix=${prefix}
+libdir=/Users/lijun/Environment/ffmpeg_source_code/ffmpeg-4.4.3/macox/lib
+includedir=/Users/lijun/Environment/ffmpeg_source_code/ffmpeg-4.4.3/macox/include
+
+Name: libavcodec
+Description: FFmpeg codec library
+Version: 58.134.100
+Requires: 
+Requires.private: libswresample >= 3.9.100, libavutil >= 56.70.100
+Conflicts:
+Libs: -L${libdir}  -lavcodec 
+Libs.private: -liconv -lm -llzma -lz -framework AudioToolbox -pthread -framework VideoToolbox -framework CoreFoundation -framework CoreMedia -framework CoreVideo -framework CoreServices
+Cflags: -I${includedir}

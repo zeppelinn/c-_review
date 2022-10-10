@@ -1,0 +1,4 @@
+/Users/lijun/CLionProjects/imooc_demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lijun/CLionProjects/imooc_demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lijun/CLionProjects/imooc_demo/cmake-build-debug/CMakeFiles/imooc_demo.dir
+/Users/lijun/CLionProjects/imooc_demo/cmake-build-debug/CMakeFiles/imooc_demo_autogen.dir

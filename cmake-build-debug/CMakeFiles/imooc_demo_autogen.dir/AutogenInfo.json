@@ -1,0 +1,236 @@
+{
+	"BUILD_DIR" : "/Users/lijun/CLionProjects/imooc_demo/cmake-build-debug/imooc_demo_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/lijun/CLionProjects/imooc_demo/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/lijun/CLionProjects/imooc_demo/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/lijun/CLionProjects/imooc_demo",
+	"CMAKE_EXECUTABLE" : "/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/lijun/CLionProjects/imooc_demo/CMakeLists.txt",
+		"/Users/lijun/CLionProjects/imooc_demo/cmake-build-debug/CMakeFiles/3.21.1/CMakeSystem.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Darwin-Initialize.cmake",
+		"/Users/lijun/CLionProjects/imooc_demo/cmake-build-debug/CMakeFiles/3.21.1/CMakeCCompiler.cmake",
+		"/Users/lijun/CLionProjects/imooc_demo/cmake-build-debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeGenericSystem.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Darwin.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/UnixPaths.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCInformation.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/AppleClang-C.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Clang.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/GNU.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-AppleClang-C.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-Clang-C.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-Clang.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCXXInformation.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/AppleClang-CXX.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Compiler/Clang.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-AppleClang-CXX.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-Clang-CXX.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/Platform/Apple-Clang.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeParseArguments.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QCocoaIntegrationPlugin.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMacJp2Plugin.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeParseArguments.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/lijun/CLionProjects/imooc_demo",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/Users/lijun/CLionProjects/imooc_demo/demo/demo_10/Complex.h",
+			"MU",
+			"FEMLSZXFWQ/moc_Complex.cpp",
+			null
+		],
+		[
+			"/Users/lijun/CLionProjects/imooc_demo/demo/demo_9/demo_9_function.h",
+			"MU",
+			"FNCV5EPU5W/moc_demo_9_function.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/lijun/CLionProjects/imooc_demo/cmake-build-debug/imooc_demo_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/lijun/CLionProjects/imooc_demo/cmake-build-debug/imooc_demo_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/lijun/CLionProjects/imooc_demo/include",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/QtWidgets.framework",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/QtWidgets.framework/Headers",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/QtGui.framework",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/QtGui.framework/Headers",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/System/Library/Frameworks/OpenGL.framework/Headers",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/QtCore.framework",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/lib/QtCore.framework/Headers",
+		"/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/mkspecs/macx-clang",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include/c++/v1",
+		"/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk/usr/include",
+		"/Library/Developer/CommandLineTools/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/Library/Developer/CommandLineTools/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/lijun/CLionProjects/imooc_demo/cmake-build-debug/imooc_demo_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "/Users/lijun/CLionProjects/imooc_demo/cmake-build-debug/CMakeFiles/imooc_demo_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/Users/lijun/Environment/QT/env_5_9_4/5.9.4/clang_64/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 9,
+	"SETTINGS_FILE" : "/Users/lijun/CLionProjects/imooc_demo/cmake-build-debug/CMakeFiles/imooc_demo_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/Users/lijun/CLionProjects/imooc_demo/demo/demo_1.cpp", "MU", null ],
+		[
+			"/Users/lijun/CLionProjects/imooc_demo/demo/demo_10/Complex.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/lijun/CLionProjects/imooc_demo/demo/demo_10/demo_10_oop.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/lijun/CLionProjects/imooc_demo/demo/demo_11_stl/demo_adapter.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/lijun/CLionProjects/imooc_demo/demo/demo_11_stl/demo_algorithm.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/lijun/CLionProjects/imooc_demo/demo/demo_11_stl/demo_container.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/lijun/CLionProjects/imooc_demo/demo/demo_11_stl/demo_functor.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/lijun/CLionProjects/imooc_demo/demo/demo_11_stl/demo_iterator.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/lijun/CLionProjects/imooc_demo/demo/demo_11_stl/demo_multi_thread.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/lijun/CLionProjects/imooc_demo/demo/demo_12_makefile/demo_12_makefile.cpp",
+			"MU",
+			null
+		],
+		[ "/Users/lijun/CLionProjects/imooc_demo/demo/demo_2.cpp", "MU", null ],
+		[ "/Users/lijun/CLionProjects/imooc_demo/demo/demo_3.cpp", "MU", null ],
+		[
+			"/Users/lijun/CLionProjects/imooc_demo/demo/demo_4_container.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/lijun/CLionProjects/imooc_demo/demo/demo_5_string.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/lijun/CLionProjects/imooc_demo/demo/demo_6_pointer.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/lijun/CLionProjects/imooc_demo/demo/demo_7_memory_block.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/lijun/CLionProjects/imooc_demo/demo/demo_8_type.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/lijun/CLionProjects/imooc_demo/demo/demo_9/demo_9.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/lijun/CLionProjects/imooc_demo/demo/demo_9/demo_9_function.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/lijun/CLionProjects/imooc_demo/demo/demo_ffmpeg.cpp",
+			"MU",
+			null
+		],
+		[ "/Users/lijun/CLionProjects/imooc_demo/main.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

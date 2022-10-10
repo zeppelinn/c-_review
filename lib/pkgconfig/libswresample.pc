@@ -1,0 +1,14 @@
+prefix=/Users/lijun/Environment/ffmpeg_source_code/ffmpeg-4.4.3/macox
+exec_prefix=${prefix}
+libdir=/Users/lijun/Environment/ffmpeg_source_code/ffmpeg-4.4.3/macox/lib
+includedir=/Users/lijun/Environment/ffmpeg_source_code/ffmpeg-4.4.3/macox/include
+
+Name: libswresample
+Description: FFmpeg audio resampling library
+Version: 3.9.100
+Requires: 
+Requires.private: libavutil >= 56.70.100
+Conflicts:
+Libs: -L${libdir}  -lswresample 
+Libs.private: -lm
+Cflags: -I${includedir}
